@@ -1,7 +1,8 @@
 <h1>Hello all! I'm Ronald Anthony, aka Tony, aka DerivedBetter <br/><a href="https://github.com/Derivedbetter">Programmer</a>, <a href="https://www.linkedin.com/in/ronaldtonyhickman/">Cybersecurity and Training Professional</a>, <a href="https://www.youtube.com/@DERIVEDBETTER">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Popular YouTube Videos</h2>
